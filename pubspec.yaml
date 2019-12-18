@@ -1,7 +1,7 @@
 name: flutter_updater_package
 description: An easy way to implement OTA updates.
 version: 0.0.1
-author:
+author: SimoneBoerci <boercisimone@gmail.com>
 homepage:
 
 environment:
@@ -10,6 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dio:
+  permission_handler:
+  path_provider:
+  open_file:
 
 dev_dependencies:
   flutter_test:
