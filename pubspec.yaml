@@ -1,6 +1,6 @@
 name: flutter_updater_package
-description: An easy way to implement OTA updates.
-version: 1.0.0
+description: An easy way to implement OTA updates. 200 lines of code, simplified in one.
+version: 1.0.1
 homepage: https://github.com/GG57354/flutter_updater_package
 
 environment:
